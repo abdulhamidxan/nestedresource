@@ -1,24 +1,17 @@
-# README
+# README for "NESTED RESOURCES"
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This code was writed by youtube channel **SupeRails**
+
+
 
 Things you may want to cover:
 
 * Ruby version
+***3.2.2***
+* Rails version
+***7.0.6***
 
-* System dependencies
 
-* Configuration
+You can use this for web apps with commenting like: Twitter, Instagram,Threads
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
